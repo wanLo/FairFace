@@ -1,2 +1,3 @@
-detected_faces/*
+detected_faces*/*
 dlib_models/res34*
+test_outputs.csv
